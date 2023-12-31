@@ -38,9 +38,7 @@ const sail =  {
     Starting in late 2023, I gearing up to land a job in a software company. To become more competitive, I will engage in technical reading groups and mock interviews and hone my Front-End skills. I will also read more technical blogs on strategies to flourish in a tech career.
 </p>
 
-<table>
-<tr>
-<td><img src="./assets/team-work.gif" alt="teamwork" width="85" /></td>
-<td><i>Fitting the puzzle pieces together with talented people or on my own is an exciting career!</i></td>
-</tr>
-</table>
+<div>
+    <img src="./assets/team-work.gif" alt="teamwork" width="85" />
+    <i>Fitting the puzzle pieces together with talented people or on my own is an exciting career!</i>
+</div>
