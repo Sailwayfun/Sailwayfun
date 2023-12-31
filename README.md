@@ -20,7 +20,7 @@
  Languages and Tools
 </h3>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,firebase,typescript,git)](https://skillicons.dev)
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
