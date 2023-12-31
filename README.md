@@ -36,7 +36,7 @@ const sail =  {
     Goal of 2024  
 </h3>
 <p>
-    Starting in late 2023, I gearing up to land a job in a software company. To become more competitive, I will engage in technical reading groups and mock interviews and hone my Front-End skills. I will also read more technical blogs on strategies to flourish in a tech career.
+    Starting in late 2023, I am gearing up to land a job in a software company. To become more competitive, I will engage in technical reading groups and mock interviews and hone my Front-End skills. I will also read more technical blogs on strategies to flourish in a tech career.
 </p>
 
 <div>
