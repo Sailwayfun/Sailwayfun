@@ -15,8 +15,12 @@
     <img src="./assets/cat-programming.gif" width="100px" align="right"/>
 </div>
 
-### Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
+<h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" />
+ Languages and Tools
+</h3>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,git)](https://skillicons.dev)
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
