@@ -20,7 +20,7 @@ _A Front-End Engineer at [AppWorks School](https://school.appworks.tw/)._
     About Me
 </h3>
 
-```
+```JavaScript
 const sail =  {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
@@ -42,5 +42,5 @@ const sail =  {
 <div>
     <img src="./assets/team-work.gif" alt="teamwork" width="65" align="left"/>
     <br/>
-    <em><b> &nbsp; Fitting the puzzle pieces together with talented people<b> or on my own is an exciting career!</em>
+    <em><b> &nbsp; &nbsp; Fitting the puzzle pieces together with talented people<b> or on my own is an exciting career!</em>
 </div>
