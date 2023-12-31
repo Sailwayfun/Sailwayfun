@@ -3,7 +3,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="45" height="45" style="margin: 0 10px"/>
 </h2>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CF2C&random=false&width=650&lines=A+developer+with+a+zest+for+building+amazing+things)](https://git.io/typing-svg)
 
 <div>
@@ -15,6 +14,9 @@
     </a>
     <img src="./assets/cat-programming.gif" width="100px" align="right"/>
 </div>
+
+### Languages and Tools
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
