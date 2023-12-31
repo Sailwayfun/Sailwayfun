@@ -5,7 +5,7 @@
 
 _A Front-End Engineer at [AppWorks School](https://school.appworks.tw/)._
 
-<img src="./assets/cat-programming.gif" width="100px" style="border-radius: 100px; align="right" />
+<img src="./assets/cat-programming.gif" width="100px" style="border-radius: 100px;" align="right"/>
 
 <a href="https://www.linkedin.com/in/sailliaodev/">
     <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
