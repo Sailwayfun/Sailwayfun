@@ -5,14 +5,15 @@
 
 _A Front-End Engineer at [AppWorks School](https://school.appworks.tw/)._
 
-<img src="./assets/cat-programming.gif" width="100px" align="right"/>
-
-<a href="https://www.linkedin.com/in/sailliaodev/">
-    <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
-</a>
-<a href="https://github.com/Sailwayfun">
+<div>
+    <a href="https://www.linkedin.com/in/sailliaodev/">
+        <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-        square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
+    </a>
+    <a href="https://github.com/Sailwayfun">
     <img src="https://img.shields.io/github/followers/SailWayFun?label=follow&style=social"/>
-</a>
+    </a>
+    <img src="./assets/cat-programming.gif" width="100px" align="right"/>
+</div>
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
