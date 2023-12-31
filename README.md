@@ -40,7 +40,7 @@ const sail =  {
 
 <table>
 <tr>
-<td><img src="https://i.gifer.com/4q43.gif" alt="teamwork" width="85" /></td>
+<td><img src="./assets/team-work.gif" alt="teamwork" width="85" /></td>
 <td><i>Fitting the puzzle pieces together with talented people or on my own is an exciting career!</i></td>
 </tr>
 </table>
