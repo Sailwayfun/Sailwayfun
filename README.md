@@ -42,5 +42,5 @@ const sail =  {
 <div>
     <img src="./assets/team-work.gif" alt="teamwork" width="65" align="left"/>
     <br/>
-    <i>Fitting the puzzle pieces together with talented people or on my own is an exciting career!</i>
+    <em><b>Fitting the puzzle pieces together with talented people<b> or on my own is an exciting career!</em>
 </div>
