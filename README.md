@@ -28,7 +28,7 @@
 </h3>
 
 ```JavaScript
-const sail =  {
+const sail = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Tailwind, Zustand, TypeScript, npm, Git],
