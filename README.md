@@ -37,17 +37,3 @@ const sail = {
     ]
 }
 ```
-
-<h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="45" height="45" />
-    Goal of 2024  
-</h3>
-<p>
-    Starting in late 2023, I am gearing up to land a job in a software company. To become more competitive, I will engage in technical reading groups and mock interviews and hone my Front-End skills. I will also read more technical blogs on strategies to flourish in a tech career.
-</p>
-
-<div>
-    <img src="./assets/team-work.gif" alt="teamwork" width="65" align="left"/>
-    <br/>
-    <em><b> &nbsp; &nbsp; Fitting the puzzle pieces together with talented people<b> or on my own is an exciting career!</em>
-</div>
