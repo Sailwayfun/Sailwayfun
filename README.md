@@ -3,8 +3,7 @@
     Hi, I'm Sail Liao!
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CF2C&random=false&width=650&lines=A+developer+with+a+zest+for+building+amazing+things)](https://git.io/typing-svg)
-
+Front-end developer that excels in website and desktop user interface solutions.
 <div>
     <a href="https://www.linkedin.com/in/sailliaodev/">
         <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-        square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
@@ -20,7 +19,7 @@
  Languages and Tools
 </h3>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,styledcomponents,firebase,typescript,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,electron,react,vue,tailwind,styledcomponents,firebase,typescript,git)](https://skillicons.dev)
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
