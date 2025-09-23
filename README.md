@@ -26,13 +26,10 @@ Front-end developer that excels in website and desktop user interface solutions.
     About Me
 </h3>
 
-```JavaScript
-const sail = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [Electron.js, Vue, React, Tailwind, Zustand, TypeScript, npm, Git],
-  languages: [
-    { Mandarin: native, English: work proficiency }
-    ]
-}
-```
+Hi, I’m Sail 👋
+
+- Frontend engineer, focusing on JavaScript, HTML, CSS.  
+- I use React（Vite/Next), Vue, Electron, and Tailwind in my projects.  
+- I enjoy building practical tools and keeping things simple.  
+- Languages: Mandarin (native), English (work proficiency).
+
