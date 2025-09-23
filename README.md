@@ -30,7 +30,7 @@ Front-end developer that excels in website and desktop user interface solutions.
 const sail = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Tailwind, Zustand, TypeScript, npm, Git],
+  tools: [Electron.js, Vue, React, Tailwind, Zustand, TypeScript, npm, Git],
   languages: [
     { Mandarin: native, English: work proficiency }
     ]
