@@ -19,7 +19,7 @@ Front-end developer that excels in website and desktop user interface solutions.
  Languages and Tools
 </h3>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,electron,react,vue,tailwind,styledcomponents,firebase,typescript,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,electron,react,vue,tailwind,styledcomponents,firebase,typescript,git)](https://skillicons.dev)
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="45" height="45" />
