@@ -3,7 +3,7 @@
     Hi, I'm Sail Liao!
 </h2>
 
-Front-end developer that excels in website and desktop user interface solutions.
+Front-end developer who excels in website and desktop user interface solutions.
 <div>
     <a href="https://www.linkedin.com/in/sailliaodev/">
         <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
