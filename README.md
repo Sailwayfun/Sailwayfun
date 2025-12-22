@@ -6,7 +6,7 @@
 Front-end developer that excels in website and desktop user interface solutions.
 <div>
     <a href="https://www.linkedin.com/in/sailliaodev/">
-        <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-        square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
+        <img src="https://img.shields.io/badge/-sailliaodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailliaodev/"/>
     </a>
     <a href="https://github.com/Sailwayfun">
     <img src="https://img.shields.io/github/followers/SailWayFun?label=follow&style=social"/>
