@@ -33,3 +33,7 @@ Hi, I’m Sail 👋
 - I enjoy building practical tools and keeping things simple.  
 - Languages: Mandarin (native), English (work proficiency).
 
+### 📫 Get In Touch
+- 📧 Email: liaoleon000513@gmail.com
+- 💼 LinkedIn: [sailliaodev](https://www.linkedin.com/in/sailliaodev/)
+
